@@ -19,6 +19,8 @@
 
 #									Testcase												 #
 
+Run main.py
+
 Enter the value in a form of string
 
 1. Sample case-1
@@ -29,3 +31,19 @@ Enter the value in a form of string
 
 3. Sample case-3
 {"beverage":"black coffee","ingredient_with_quant":[{"coffee":3,"water":2}]}
+
+
+Default stock in vending machine -> {"water":40,"tea":40,"milk":30,"sprite":10,"coffee":10,"coca-cola":5,"sugar":15}
+
+To change the stock default values, please update the stock values.
+
+Default ingredients:
+1. water
+2. tea
+3. milk
+4. sprite
+5. coffee
+6. coca-cola
+7. sugar
+
+To add ingredients or change ingredients add it to default ingredients
